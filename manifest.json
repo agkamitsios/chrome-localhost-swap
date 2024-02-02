@@ -1,0 +1,20 @@
+{
+  "name": "replace url origin",
+  "version": "1.0.0",
+  "description": "replace the origin",
+  "manifest_version": 3,
+  "author": "Gkamtsantonis",
+  "permissions": [
+    "tabs",
+    "webNavigation",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Goto localhost"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  }
+}
