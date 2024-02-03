@@ -46,6 +46,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
    <img width="278" src="images/screenshot5.png">
 
-6. The default port is 3000 but you can change it through the extension's settings
+6. You can also press the middle click (or ctr/cmd + click) to open the page in a new tab in localhost
+
+7. A new context menu is also added when you right click on a link in a page, that allows you to open the link in localhost
+   <img width="278" src="images/screenshot7.png">
+
+8. The default port is 3000 but you can change it through the extension's settings
 
    <img width="725" src="images/screenshot6.png">
