@@ -7,7 +7,8 @@
   "permissions": [
     "tabs",
     "webNavigation",
-    "storage"
+    "storage",
+    "contextMenus"
   ],
   "action": {
     "default_popup": "index.html",
@@ -16,5 +17,8 @@
   "options_ui": {
     "page": "options.html",
     "open_in_tab": false
+  },
+  "background": {
+    "service_worker": "src/contextMenu.js"
   }
 }
