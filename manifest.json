@@ -1,7 +1,7 @@
 {
-  "name": "replace url origin",
+  "name": "Go localhost",
   "version": "1.0.0",
-  "description": "replace the origin",
+  "description": "replace the origin to localhost",
   "manifest_version": 3,
   "author": "Gkamtsantonis",
   "permissions": [
@@ -11,7 +11,7 @@
   ],
   "action": {
     "default_popup": "index.html",
-    "default_title": "Goto localhost"
+    "default_title": "Go localhost"
   },
   "options_ui": {
     "page": "options.html",
