@@ -44,7 +44,7 @@ Here's why:
 
    <img width="278" src="images/screenshot5.png">
 
-6. You can also press the middle click (or ctr/cmd + click) to open the page in a new tab in localhost
+6. You can also press the middle mouse click (or ctr/cmd + click) on the button to open the page in a new tab in localhost
 
 7. A new context menu is also added when you right click on a link in a page, that allows you to open the link in localhost
    <img width="278" src="images/screenshot7.png">
