@@ -20,5 +20,14 @@
   },
   "background": {
     "service_worker": "src/contextMenu.js"
+  },
+  "commands": {
+    "change-host-name": {
+      "suggested_key": {
+        "default": "Alt+Q",
+        "mac": "Alt+Q"
+      },
+      "description": "Changes the hostname from whatever it is to localhost"
+    }
   }
 }
